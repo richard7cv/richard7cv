@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **richard7cv/richard7cv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
